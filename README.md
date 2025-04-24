@@ -1,2 +1,3 @@
 # counter_App_with_Provider
-By Using Provider
+ Counter App by using Provider in Flutter.
+ 
